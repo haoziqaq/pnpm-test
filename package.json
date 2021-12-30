@@ -65,6 +65,7 @@
       "site/**",
       "public/**",
       "src/*/__tests__/**",
+      "types/global.d.ts",
       ".varlet/**"
     ],
     "extends": [
