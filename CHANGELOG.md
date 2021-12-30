@@ -1,3 +1,7 @@
+## [0.0.2](https://github.com/haoziqaq/pnpm-test/compare/v0.0.1...v0.0.2) (2021-12-30)
+
+
+
 ## [0.0.1](https://github.com/haoziqaq/pnpm-test/compare/e196ad76c9a0c0b811cf79bdc729b9605d526b87...v0.0.1) (2021-12-30)
 
 
