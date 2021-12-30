@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@varlet/cli': ^1.24.3-alpha.1640883058543
+  '@varlet/cli': ^1.24.3-alpha.1640884295479
   '@varlet/eslint-config': ^1.24.3-alpha.1640883058543
   '@varlet/icons': ^1.24.3-alpha.1640883058543
   '@varlet/stylelint-config': ^1.24.3-alpha.1640883058543
@@ -19,7 +19,7 @@ specifiers:
   vue-router: 4.0.12
 
 devDependencies:
-  '@varlet/cli': 1.24.3-alpha.1640883058543_ac1693eaf492714ef670aaeebd791d05
+  '@varlet/cli': 1.24.3-alpha.1640884295479_ac1693eaf492714ef670aaeebd791d05
   '@varlet/eslint-config': 1.24.3-alpha.1640883058543_eslint@7.32.0+typescript@4.5.4
   '@varlet/icons': 1.24.3-alpha.1640883058543
   '@varlet/stylelint-config': 1.24.3-alpha.1640883058543_stylelint@13.13.1
@@ -1802,8 +1802,8 @@ packages:
       eslint-visitor-keys: 2.1.0
     dev: true
 
-  /@varlet/cli/1.24.3-alpha.1640883058543_ac1693eaf492714ef670aaeebd791d05:
-    resolution: {integrity: sha512-iU9nX+jLs4jTXSr1hmIMtOIBfVGuWeNfwW5oBc1B/bRcnuvlMW8zCMlriNayxW9dbFOf0THHqcwJCOokBID2xw==}
+  /@varlet/cli/1.24.3-alpha.1640884295479_ac1693eaf492714ef670aaeebd791d05:
+    resolution: {integrity: sha512-5J9VNwTjvBJTjjdCKYt4UQjrVZTHO8p30PPU6zOyb8wTsftT6YNpyy0tv9ZDgeSm9JigyNMFcpqHmumaqAjt0A==}
     hasBin: true
     peerDependencies:
       '@vue/test-utils': ^2.0.0-rc.6
@@ -1815,9 +1815,9 @@ packages:
       '@babel/helper-plugin-utils': 7.16.5
       '@babel/preset-env': 7.16.5_@babel+core@7.16.5
       '@babel/preset-typescript': 7.16.5_@babel+core@7.16.5
-      '@varlet/icons': 1.24.3-alpha.1640883058543_chokidar@3.5.2
-      '@varlet/markdown-vite-plugin': 1.24.3-alpha.1640883058543
-      '@varlet/touch-emulator': 1.24.3-alpha.1640883058543
+      '@varlet/icons': 1.24.3-alpha.1640884295479_chokidar@3.5.2
+      '@varlet/markdown-vite-plugin': 1.24.3-alpha.1640884295479
+      '@varlet/touch-emulator': 1.24.3-alpha.1640884295479
       '@vitejs/plugin-vue': 1.9.2_vite@2.6.5
       '@vitejs/plugin-vue-jsx': 1.1.8
       '@vue/babel-plugin-jsx': 1.0.7_@babel+core@7.16.5
@@ -1886,8 +1886,8 @@ packages:
       - chokidar
     dev: true
 
-  /@varlet/icons/1.24.3-alpha.1640883058543_chokidar@3.5.2:
-    resolution: {integrity: sha512-MOG/tp3RSW5N1FRqe0y9oUWJLs0AG7nk0T5HW+p6cUOxdQRCMY9bhHHqbt1Nl0t2NHr3B0az47AxubaJ/rC95g==}
+  /@varlet/icons/1.24.3-alpha.1640884295479_chokidar@3.5.2:
+    resolution: {integrity: sha512-cR/5IIfCMRUqBg++YsogHf+CbPOq52s0N/7KhiHzRn9VAkuOHRM1G7o8B2qUei/dTtUBvzJ+ZX+xHtUH30uLSg==}
     hasBin: true
     dependencies:
       commander: 6.2.1
@@ -1897,8 +1897,8 @@ packages:
       - chokidar
     dev: true
 
-  /@varlet/markdown-vite-plugin/1.24.3-alpha.1640883058543:
-    resolution: {integrity: sha512-MjeVGgExwyR/QqQeVNzHrV/+opqxRyHAEQKSVgwWxpruw+0LOimGlc375LFsq5omfuQqtuKVnGUL1SBqcv7Uiw==}
+  /@varlet/markdown-vite-plugin/1.24.3-alpha.1640884295479:
+    resolution: {integrity: sha512-SiV6TIkxvwqNv9ulEUeVSKp3FiG/FZoMWyRoI+bqxEDysuhTxcz7OfHQLtDDYZudUCMJbh/BCNQmSqoMe3W3nA==}
     dependencies:
       highlight.js: 10.7.3
       markdown-it: 12.3.0
@@ -1915,6 +1915,10 @@ packages:
 
   /@varlet/touch-emulator/1.24.3-alpha.1640883058543:
     resolution: {integrity: sha512-LT99eiuRtY3XHRV7VJaEeB0+X9D4arz/QHoh4N7/PCC+s3DolVfelu2qL2TDxoUeDvp3lz/S2VDgx29URad4Rw==}
+    dev: true
+
+  /@varlet/touch-emulator/1.24.3-alpha.1640884295479:
+    resolution: {integrity: sha512-qPqSmPxgF97mLcUKBaQj/cYwqWC4Ayoj3HfmtFjCvU8S7T1+LUVO5/VpaLUayzWFSvWdtIGQKKvXo82uRVd4Iw==}
     dev: true
 
   /@vitejs/plugin-vue-jsx/1.1.8:
